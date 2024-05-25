@@ -1,0 +1,30 @@
+.grafico-container{
+    width: 100%;
+    height: 100%;
+}
+
+.dropDowns{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 1rem 1vw 1rem 1vw
+}
+
+.Categoria span, .Producto span, .Marca span{
+    margin-right: 5px;
+}
+
+select{
+    width: 100px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.grafico{
+    width: 100%;
+}
+
+.grafico h1{
+    font-size: large;
+    text-align: center;
+}

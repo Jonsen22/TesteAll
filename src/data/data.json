@@ -1,0 +1,310 @@
+{
+    "data": [
+      {
+        "categoria": "Eletrônicos",
+        "produtos": [
+          {
+            "produto": "Smartphone",
+            "marcas": [
+              {
+                "marca": "Samsung",
+                "vendas": {
+                  "janeiro": 1200,
+                  "fevereiro": 1100,
+                  "março": 1300,
+                  "abril": 1400
+                }
+              },
+              {
+                "marca": "Iphone",
+                "vendas": {
+                  "janeiro": 1500,
+                  "fevereiro": 1400,
+                  "março": 1600,
+                  "abril": 1700
+                }
+              },
+              {
+                "marca": "Motorola",
+                "vendas": {
+                  "janeiro": 1000,
+                  "fevereiro": 900,
+                  "março": 1100,
+                  "abril": 1200,
+                  "maio": 1300
+                }
+              }
+            ]
+          },
+          {
+            "produto": "Televisão",
+            "marcas": [
+              {
+                "marca": "LG",
+                "vendas": {
+                  "janeiro": 2000,
+                  "fevereiro": 1900,
+                  "março": 2100,
+                  "abril": 2200
+                }
+              },
+              {
+                "marca": "Sony",
+                "vendas": {
+                  "janeiro": 1800,
+                  "fevereiro": 1700,
+                  "março": 1900,
+                  "abril": 2000
+                }
+              },
+              {
+                "marca": "AOC",
+                "vendas": {
+                  "janeiro": 1600,
+                  "fevereiro": 1500,
+                  "março": 1700,
+                  "abril": 1800
+                }
+              }
+            ]
+          },
+          {
+            "produto": "Notebook",
+            "marcas": [
+              {
+                "marca": "Samsung",
+                "vendas": {
+                  "janeiro": 3000,
+                  "fevereiro": 3100,
+                  "março": 3200,
+                  "abril": 3300
+                }
+              },
+              {
+                "marca": "Apple",
+                "vendas": {
+                  "janeiro": 2800,
+                  "fevereiro": 2700,
+                  "março": 2900,
+                  "abril": 3000
+                }
+              },
+              {
+                "marca": "Acer",
+                "vendas": {
+                  "janeiro": 2500,
+                  "fevereiro": 2400,
+                  "março": 2600,
+                  "abril": 2700
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoria": "Roupas",
+        "produtos": [
+          {
+            "produto": "Camiseta",
+            "marcas": [
+              {
+                "marca": "Nike",
+                "vendas": {
+                  "janeiro": 500,
+                  "fevereiro": 600,
+                  "março": 700,
+                  "abril": 800
+                }
+              },
+              {
+                "marca": "Adidas",
+                "vendas": {
+                  "janeiro": 650,
+                  "fevereiro": 750,
+                  "março": 850,
+                  "abril": 950
+                }
+              },
+              {
+                "marca": "Puma",
+                "vendas": {
+                  "janeiro": 700,
+                  "fevereiro": 800,
+                  "março": 900,
+                  "abril": 1000,
+                  "maio": 1100
+                }
+              }
+            ]
+          },
+          {
+            "produto": "Calça",
+            "marcas": [
+              {
+                "marca": "Nike",
+                "vendas": {
+                  "janeiro": 900,
+                  "fevereiro": 1000,
+                  "março": 1100,
+                  "abril": 1200
+                }
+              },
+              {
+                "marca": "Adidas",
+                "vendas": {
+                  "janeiro": 1050,
+                  "fevereiro": 1150,
+                  "março": 1250,
+                  "abril": 1350
+                }
+              },
+              {
+                "marca": "Puma",
+                "vendas": {
+                  "janeiro": 700,
+                  "fevereiro": 800,
+                  "março": 900,
+                  "abril": 1000
+                }
+              }
+            ]
+          },
+          {
+            "produto": "Jaqueta",
+            "marcas": [
+              {
+                "marca": "Nike",
+                "vendas": {
+                  "janeiro": 1200,
+                  "fevereiro": 1300,
+                  "março": 1400,
+                  "abril": 1500
+                }
+              },
+              {
+                "marca": "Adidas",
+                "vendas": {
+                  "janeiro": 1500,
+                  "fevereiro": 1600,
+                  "março": 1700,
+                  "abril": 1800
+                }
+              },
+              {
+                "marca": "Puma",
+                "vendas": {
+                  "janeiro": 1700,
+                  "fevereiro": 1800,
+                  "março": 1900,
+                  "abril": 2000
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "categoria": "Alimentos",
+        "produtos": [
+          {
+            "produto": "Arroz",
+            "marcas": [
+              {
+                "marca": "Tio João",
+                "vendas": {
+                  "janeiro": 1100,
+                  "fevereiro": 1200,
+                  "março": 1300,
+                  "abril": 1400
+                }
+              },
+              {
+                "marca": "Urbano",
+                "vendas": {
+                  "janeiro": 1000,
+                  "fevereiro": 1100,
+                  "março": 1200,
+                  "abril": 1300
+                }
+              },
+              {
+                "marca": "PegJá",
+                "vendas": {
+                  "janeiro": 900,
+                  "fevereiro": 1000,
+                  "março": 1100,
+                  "abril": 1200
+                }
+              }
+            ]
+          },
+          {
+            "produto": "Feijão",
+            "marcas": [
+              {
+                "marca": "Kicaldo",
+                "vendas": {
+                  "janeiro": 800,
+                  "fevereiro": 900,
+                  "março": 1000,
+                  "abril": 1100
+                }
+              },
+              {
+                "marca": "Combrasil",
+                "vendas": {
+                    "janeiro": 700,
+                    "fevereiro": 800,
+                    "março": 900,
+                    "abril": 1000
+                  }
+                },
+                {
+                  "marca": "Máximo",
+                  "vendas": {
+                    "janeiro": 600,
+                    "fevereiro": 700,
+                    "março": 800,
+                    "abril": 900,
+                    "maio": 1000
+                  }
+                }
+              ]
+            },
+            {
+              "produto": "Macarrão",
+              "marcas": [
+                {
+                  "marca": "Adria",
+                  "vendas": {
+                    "janeiro": 400,
+                    "fevereiro": 500,
+                    "março": 600,
+                    "abril": 700
+                  }
+                },
+                {
+                  "marca": "Amália",
+                  "vendas": {
+                    "janeiro": 500,
+                    "fevereiro": 600,
+                    "março": 700,
+                    "abril": 800
+                  }
+                },
+                {
+                  "marca": "Aldente",
+                  "vendas": {
+                    "janeiro": 600,
+                    "fevereiro": 700,
+                    "março": 800,
+                    "abril": 900
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }  
